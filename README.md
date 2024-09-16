@@ -1,5 +1,11 @@
 <img src="sahil-background-github-ezgif.com-added-text.gif" alt="Mokkapps GitHub README header image">
 
+
+<h1 align="center">Hi 👋, I'm Sahil Naikwadi</h1>
+<h3 align="center"> 
+I am a Java developer with a background in computer science engineering. Through various projects, I have developed strong Java skills and continuously keep myself updated with emerging technologies. I am focused on applying my knowledge to deliver efficient and innovative solutions.
+</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 

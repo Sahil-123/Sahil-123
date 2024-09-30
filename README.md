@@ -36,6 +36,13 @@ I am a Java developer with a background in computer science engineering. Through
           > Resume</a
         >
 
+- My dynamic resume <a
+          href="https://sahil-123.github.io/portfolio/"
+          target="_blank"
+          class="btn"
+          >website</a
+        >
+
 </br>
 
 # Tech Stack:

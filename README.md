@@ -25,7 +25,7 @@ I am a Java developer with a background in computer science engineering. Through
 
 - Ask me about **Java FullStack**
 
-- How to reach me <a href="mailto:pedro.sales.muniz@gmail.com">
+- How to reach me <a href="mailto:sahil.ladaji.naikwadi@gmail.com">
    **sahil.ladaji.naikwadi@gmail.com**
   </a> 
 

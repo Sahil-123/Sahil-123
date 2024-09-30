@@ -15,7 +15,7 @@ I am a Java developer with a background in computer science engineering. Through
 <br>
 <br>
 
-# 💫 About Me:
+# About Me:
 
 - I’m currently working on **User issue mangement system spring project**
 
@@ -29,11 +29,16 @@ I am a Java developer with a background in computer science engineering. Through
    **sahil.ladaji.naikwadi@gmail.com**
   </a> 
 
-- Check out my **resume**
+- Check out my <a
+          href="https://drive.google.com/file/d/11EmajIhCcB5Vyfc6ps7Mmd3OdjKMPjFR/view?usp=sharing"
+          target="_blank"
+          class="btn"
+          > Resume</a
+        >
 
 </br>
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 <br/>
 <div align="center">
@@ -42,10 +47,12 @@ I am a Java developer with a background in computer science engineering. Through
 
 </br>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-123&show_icons=true&locale=en&layout=compact" alt="sahil-123" /></p>
-
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-123&show_icons=true&locale=en" alt="sahil-123" /></p>
-
+<br>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-123&" alt="sahil-123" /></p>
 
